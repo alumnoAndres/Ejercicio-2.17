@@ -1,0 +1,8 @@
+@font-face{
+    font-family: "RibeyeMarrow";
+    src: url("fonts/RibeyeMarrow.woff2");
+}
+
+h2.RibeyeMarrow{
+    font-family: "RibeyeMarrow";
+}
